@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxinstuff
 - 👀 I’m interested in architecture, integrations, and cross-platform technologies
-- 🌱 I’m currently learning C# and .NET generally
-- 💞️ I’m looking to work on small projects with a focus on decoupled architectures
+- 🤖 Coding in C#, Python, Rust, Typescript/Javascript, and HTML/CSS
+- 💞️ Work on projects that solve real problems
 - 📫 You reach me on Reddit, u/maxinstuff
 
 <!---
